@@ -31,31 +31,56 @@ namespace Practica1_3
         {
             this.label1 = new System.Windows.Forms.Label();
             this.tnombre = new System.Windows.Forms.TextBox();
+            this.tTelf = new System.Windows.Forms.TextBox();
+            this.label2 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(59, 76);
+            this.label1.Location = new System.Drawing.Point(79, 94);
+            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(44, 13);
+            this.label1.Size = new System.Drawing.Size(56, 16);
             this.label1.TabIndex = 0;
             this.label1.Text = "Nombre";
             // 
             // tnombre
             // 
-            this.tnombre.Location = new System.Drawing.Point(154, 76);
+            this.tnombre.Location = new System.Drawing.Point(205, 94);
+            this.tnombre.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.tnombre.Name = "tnombre";
-            this.tnombre.Size = new System.Drawing.Size(100, 20);
+            this.tnombre.Size = new System.Drawing.Size(132, 22);
             this.tnombre.TabIndex = 1;
+            // 
+            // tTelf
+            // 
+            this.tTelf.Location = new System.Drawing.Point(535, 94);
+            this.tTelf.Margin = new System.Windows.Forms.Padding(4);
+            this.tTelf.Name = "tTelf";
+            this.tTelf.Size = new System.Drawing.Size(132, 22);
+            this.tTelf.TabIndex = 3;
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(409, 94);
+            this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(61, 16);
+            this.label2.TabIndex = 2;
+            this.label2.Text = "Teléfono";
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(1067, 554);
+            this.Controls.Add(this.tTelf);
+            this.Controls.Add(this.label2);
             this.Controls.Add(this.tnombre);
             this.Controls.Add(this.label1);
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "Form1";
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
@@ -68,6 +93,8 @@ namespace Practica1_3
 
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.TextBox tnombre;
+        private System.Windows.Forms.TextBox tTelf;
+        private System.Windows.Forms.Label label2;
     }
 }
 
