@@ -25,6 +25,10 @@ namespace Practica1_3
         private void button1_Click(object sender, EventArgs e)
         {
             MessageBox.Show("Hola Aaron");
+            int n1 = int.Parse(tnombre.Text);
+            int n2 = int.Parse(textBox1.Text);
+            int tot = n1 + n2;
+            tTelf.Text = tot.ToString();
         }
     }
 }

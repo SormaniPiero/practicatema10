@@ -1,0 +1,10 @@
+C:\Users\sormani19762\source\repos\SormaniPiero\practicatema10\Practica1_3\Practica1_3\bin\Debug\Practica1_3.exe.config
+C:\Users\sormani19762\source\repos\SormaniPiero\practicatema10\Practica1_3\Practica1_3\bin\Debug\Practica1_3.exe
+C:\Users\sormani19762\source\repos\SormaniPiero\practicatema10\Practica1_3\Practica1_3\bin\Debug\Practica1_3.pdb
+C:\Users\sormani19762\source\repos\SormaniPiero\practicatema10\Practica1_3\Practica1_3\obj\Debug\Practica1_3.csproj.AssemblyReference.cache
+C:\Users\sormani19762\source\repos\SormaniPiero\practicatema10\Practica1_3\Practica1_3\obj\Debug\Practica1_3.Form1.resources
+C:\Users\sormani19762\source\repos\SormaniPiero\practicatema10\Practica1_3\Practica1_3\obj\Debug\Practica1_3.Properties.Resources.resources
+C:\Users\sormani19762\source\repos\SormaniPiero\practicatema10\Practica1_3\Practica1_3\obj\Debug\Practica1_3.csproj.GenerateResource.cache
+C:\Users\sormani19762\source\repos\SormaniPiero\practicatema10\Practica1_3\Practica1_3\obj\Debug\Practica1_3.csproj.CoreCompileInputs.cache
+C:\Users\sormani19762\source\repos\SormaniPiero\practicatema10\Practica1_3\Practica1_3\obj\Debug\Practica1_3.exe
+C:\Users\sormani19762\source\repos\SormaniPiero\practicatema10\Practica1_3\Practica1_3\obj\Debug\Practica1_3.pdb
